@@ -1,1 +1,3 @@
-First Document
+First Document to learn Git.
+
+Finding it very useful.
